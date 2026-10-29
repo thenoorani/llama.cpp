@@ -153,3 +153,7 @@ a.out.*
 
 AGENTS.local.md
 .pi/SYSTEM.md
+
+# Artemis benchmark output
+artemis_results.json
+artemis_results.csv
