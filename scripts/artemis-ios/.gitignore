@@ -1,0 +1,7 @@
+# staged per build by run.sh
+LlamaBenchApp/model.gguf
+LlamaBenchApp/ref.bin
+LlamaBenchApp/text.txt
+llama.xcframework/
+.build/
+results/
